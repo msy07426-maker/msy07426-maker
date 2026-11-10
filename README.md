@@ -1,6 +1,4 @@
 <div align="center">
-<img width="232" height="203" alt="IMG_0463" src="https://github.com/user-attachments/assets/7d4f4687-8972-48f7-8d6f-0e44f6471a8f" />
-
 
 <a href="https://github.com/YOUR_USERNAME">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=%D9%85%D8%B7%D9%88%D8%B1%D8%A9+%D8%A8%D8%B1%D9%85%D8%AC%D9%8A%D8%A7%D8%AA+%D8%B7%D9%85%D9%88%D8%AD%D8%A9+%F0%9F%92%9C;Aspiring+Software+Developer+%F0%9F%9A%80;Frontend+%7C+Backend+%7C+Mobile+Apps" alt="Typing SVG" />
@@ -221,11 +219,10 @@ An aspiring software developer passionate about building and designing applicati
 </table>
 
 </div>
+---
 
 
 ##💡 ما يجب أن تعرفه لتصبح مطورة Full-Stack كاملة
-
----
 
 ### 🎯 المهارات الأساسية (Basics)
 
