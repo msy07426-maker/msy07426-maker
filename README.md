@@ -1,20 +1,31 @@
 <div align="center">
 
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Software%20Developer&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%"/>
+
+<!-- Typing Animation -->
 <a href="https://github.com/YOUR_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=%D9%85%D8%B7%D9%88%D8%B1%D8%A9+%D8%A8%D8%B1%D9%85%D8%AC%D9%8A%D8%A7%D8%AA+%D8%B7%D9%85%D9%88%D8%AD%D8%A9+%F0%9F%92%9C;Aspiring+Software+Developer+%F0%9F%9A%80;Frontend+%7C+Backend+%7C+Mobile+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer+%F0%9F%9A%80;Frontend+%7C+Backend+%7C+Mobile+Apps;Building+the+Future%2C+One+Line+at+a+Time+%F0%9F%92%9C" alt="Typing SVG" />
 </a>
+
+<!-- Profile Badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=6C63FF" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Focus-Full--Stack-6C63FF?style=for-the-badge" alt="Focus"/>
+</p>
 
 </div>
 
 ---
 
-## 🌟 من أنا؟
+## 🌟 About Me
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="33%" style="background: linear-gradient(135deg, #ff6b9d20, #c44dff20); border-radius: 15px; padding: 15px;">
+<td align="center" width="33%" style="background: linear-gradient(135deg, #6C63FF20, #c44dff20); border-radius: 15px; padding: 15px;">
 
 ### 🇸🇦 العربية
 مطورة برمجيات طموحة، شغوفة ببناء وتصميم التطبيقات والمواقع الإلكترونية، وأسعى دائماً لتطوير مهاراتي في عالم البرمجة.
@@ -39,44 +50,39 @@ An aspiring software developer passionate about building and designing applicati
 
 ---
 
-## 🛠️ التقنيات التي أعمل بها | Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 لغات البرمجة | Programming Languages
+### 💻 Programming Languages
 
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,php,python&theme=dark&perline=5" alt="Languages"/>
+</p>
 
-### 🎨 تطوير الواجهات الأمامية | Frontend
+### 🎨 Frontend Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark&perline=5" alt="Frontend"/>
+</p>
 
-### ⚙️ تطوير الواجهات الخلفية | Backend
+### ⚙️ Backend Development
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,php,python,mysql&theme=dark&perline=4" alt="Backend"/>
+</p>
 
-### 📱 تطبيقات الجوال | Mobile
+### 📱 Mobile Development
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,react&theme=dark&perline=2" alt="Mobile"/>
+</p>
 
-### 🧰 الأدوات | Tools
+### 🧰 Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark&perline=4" alt="Tools"/>
+</p>
 
 </div>
 
@@ -86,18 +92,17 @@ An aspiring software developer passionate about building and designing applicati
 
 > 🎯 **Goal:** Become a **Full-Stack Developer** capable of building complete websites and applications — from idea to deployment.
 > <sub>هدفي: أن أصبح مطورة Full-Stack قادرة على بناء مواقع وتطبيقات متكاملة من الصفر حتى النشر.</sub>
-
-<br/>
+> <sub>Цель: Стать Full-Stack разработчиком, способным создавать полноценные сайты и приложения — от идеи до развёртывания.</sub>
 
 <br/>
 
 <table width="100%">
 <tr>
-<td width="25%" valign="top">
+<td width="25%" valign="top" align="center">
 
 **1️⃣ Programming Fundamentals**
 
-<img src="https://img.shields.io/badge/✅_Completed-000000?style=flat-square" alt="Completed">
+<img src="https://img.shields.io/badge/✅_Completed-00C853?style=for-the-badge" alt="Completed"/>
 <br/>
 `C++` · `OOP` · `Logic`
 
@@ -108,11 +113,11 @@ An aspiring software developer passionate about building and designing applicati
 <sub>Основы программирования — Освоено</sub>
 
 </td>
-<td width="25%" valign="top">
+<td width="25%" valign="top" align="center">
 
 **2️⃣ Frontend Basics**
 
-<img src="https://img.shields.io/badge/🟡_Learning-1A1A1A?style=flat-square" alt="Learning">
+<img src="https://img.shields.io/badge/🟡_Learning-FFC107?style=for-the-badge" alt="Learning"/>
 <br/>
 `HTML5` · `CSS3` · `JavaScript`
 
@@ -123,11 +128,11 @@ An aspiring software developer passionate about building and designing applicati
 <sub>Основы фронтенда — Изучаю сейчас</sub>
 
 </td>
-<td width="25%" valign="top">
+<td width="25%" valign="top" align="center">
 
 **3️⃣ Frontend Frameworks**
 
-<img src="https://img.shields.io/badge/⏳_Upcoming-2B2B2B?style=flat-square" alt="Upcoming">
+<img src="https://img.shields.io/badge/⏳_Upcoming-9E9E9E?style=for-the-badge" alt="Upcoming"/>
 <br/>
 `React` · `TailwindCSS`
 
@@ -138,11 +143,11 @@ An aspiring software developer passionate about building and designing applicati
 <sub>Фронтенд фреймворки — В планах</sub>
 
 </td>
-<td width="25%" valign="top">
+<td width="25%" valign="top" align="center">
 
 **4️⃣ Backend Development**
 
-<img src="https://img.shields.io/badge/🟡_Learning-1A1A1A?style=flat-square" alt="Learning">
+<img src="https://img.shields.io/badge/🟡_Learning-FFC107?style=for-the-badge" alt="Learning"/>
 <br/>
 `PHP` · `Node.js` · `Python`
 
@@ -155,11 +160,11 @@ An aspiring software developer passionate about building and designing applicati
 </td>
 </tr>
 <tr>
-<td width="25%" valign="top">
+<td width="25%" valign="top" align="center">
 
 **5️⃣ Databases**
 
-<img src="https://img.shields.io/badge/⏳_Upcoming-2B2B2B?style=flat-square" alt="Upcoming">
+<img src="https://img.shields.io/badge/⏳_Upcoming-9E9E9E?style=for-the-badge" alt="Upcoming"/>
 <br/>
 `MySQL` · `MongoDB`
 
@@ -170,11 +175,11 @@ An aspiring software developer passionate about building and designing applicati
 <sub>Базы данных — В планах</sub>
 
 </td>
-<td width="25%" valign="top">
+<td width="25%" valign="top" align="center">
 
 **6️⃣ Mobile Development**
 
-<img src="https://img.shields.io/badge/⏳_Upcoming-2B2B2B?style=flat-square" alt="Upcoming">
+<img src="https://img.shields.io/badge/⏳_Upcoming-9E9E9E?style=for-the-badge" alt="Upcoming"/>
 <br/>
 `Flutter` · `React Native`
 
@@ -185,11 +190,11 @@ An aspiring software developer passionate about building and designing applicati
 <sub>Мобильная разработка — В планах</sub>
 
 </td>
-<td width="25%" valign="top">
+<td width="25%" valign="top" align="center">
 
 **7️⃣ Deployment & Hosting**
 
-<img src="https://img.shields.io/badge/🟡_Learning-1A1A1A?style=flat-square" alt="Learning">
+<img src="https://img.shields.io/badge/🟡_Learning-FFC107?style=for-the-badge" alt="Learning"/>
 <br/>
 `Git` · `GitHub` · `Vercel` · `Netlify`
 
@@ -200,11 +205,11 @@ An aspiring software developer passionate about building and designing applicati
 <sub>Деплой и хостинг — Изучаю сейчас</sub>
 
 </td>
-<td width="25%" valign="top">
+<td width="25%" valign="top" align="center">
 
 **8️⃣ AI & APIs**
 
-<img src="https://img.shields.io/badge/🔮_Long--term-333333?style=flat-square" alt="Long-term">
+<img src="https://img.shields.io/badge/🔮_Long--term-6C63FF?style=for-the-badge" alt="Long-term"/>
 <br/>
 `Python` · `REST APIs`
 
@@ -218,41 +223,37 @@ An aspiring software developer passionate about building and designing applicati
 </tr>
 </table>
 
-</div>
 ---
 
+## 💡 What You Need to Know to Become a Full-Stack Developer
 
-##💡 ما يجب أن تعرفه لتصبح مطورة Full-Stack كاملة
+### 🎯 Core Skills (Basics)
 
-### 🎯 المهارات الأساسية (Basics)
+- ✅ **HTML5** — Structure of web pages
+      <sub>بنية الصفحات</sub>
+- ✅ **CSS3** — Styling and design
+      <sub>التنسيق والتصميم</sub>
+- ✅ **JavaScript** — Interactivity and dynamism
+      <sub>التفاعل والديناميكية</sub>
+- ✅ **Git & GitHub** — Version control
+      <sub>إدارة الإصدارات</sub>
+- ✅ **Responsive Design** — Responsive design
+      <sub>التصميم المتجاوب</sub>
 
-- ✅ **HTML5** — بنية الصفحات
-      <sub>Structure of web pages</sub>
-- ✅ **CSS3** — التنسيق والتصميم
-      <sub>Styling and design</sub>
-- ✅ **JavaScript** — التفاعل والديناميكية
-      <sub>Interactivity and dynamism</sub>
-- ✅ **Git & GitHub** — إدارة الإصدارات
-      <sub>Version control</sub>
-- ✅ **Responsive Design** — التصميم المتجاوب
-      <sub>Responsive design</sub>
+### 🎨 Frontend
 
+- 🟡 **React** or **Vue.js** — Frameworks
+      <sub>أطر العمل</sub>
+- 🟡 **TailwindCSS** or **Bootstrap**
+      <sub>أطر CSS</sub>
+- ⏳ **TypeScript** — Enhanced version of JavaScript
+      <sub>نسخة JavaScript المطورة</sub>
+- ⏳ **Next.js** — React framework
+      <sub>إطار React</sub>
+- ⏳ **Redux / Zustand** — State management
+      <sub>إدارة الحالة</sub>
 
-### 🎨 الواجهات الأمامية (Frontend)
-
-- 🟡 **React** أو **Vue.js** — أطر العمل
-      <sub>Frameworks</sub>
-- 🟡 **TailwindCSS** أو **Bootstrap**
-      <sub>CSS frameworks</sub>
-- ⏳ **TypeScript** — نسخة JavaScript المطورة
-      <sub>Enhanced version of JavaScript</sub>
-- ⏳ **Next.js** — إطار React
-      <sub>React framework</sub>
-- ⏳ **Redux / Zustand** — إدارة الحالة
-      <sub>State management</sub>
-
-
-### ⚙️ الواجهات الخلفية (Backend)
+### ⚙️ Backend
 
 - 🟡 **Node.js + Express**
      <sub>JavaScript runtime with web framework</sub>
@@ -260,14 +261,12 @@ An aspiring software developer passionate about building and designing applicati
      <sub>PHP with Laravel framework</sub>
 - 🟡 **Python + Django / Flask**
      <sub>Python with Django or Flask</sub>
-- ⏳ **REST APIs** و **GraphQL**
+- ⏳ **REST APIs** and **GraphQL**
      <sub>REST APIs and GraphQL</sub>
 - ⏳ **Authentication** (JWT, OAuth)
      <sub>Authentication (JWT, OAuth)</sub>
 
-
-
-### 🗄️ قواعد البيانات (Databases)
+### 🗄️ Databases
 
 - 🟡 **MySQL** / **PostgreSQL** (SQL)
      <sub>Relational databases (SQL)</sub>
@@ -278,31 +277,33 @@ An aspiring software developer passionate about building and designing applicati
 - ⏳ **Prisma** / **Sequelize** (ORM)
      <sub>Object-Relational Mapping</sub>
 
-
-### 📱 تطبيقات الجوال (Mobile)
+### 📱 Mobile
 
 - ⏳ **Flutter** (Dart)
      <sub>Flutter with Dart</sub>
 - ⏳ **React Native** (JS)
      <sub>React Native with JavaScript</sub>
-- ⏳ **PWA** — تطبيقات ويب تقدمية
-     <sub>Progressive Web Apps</sub>
+- ⏳ **PWA** — Progressive Web Apps
+     <sub>تطبيقات ويب تقدمية</sub>
+
 ---
 
-## 📊 إحصائيات GitHub | GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&title_color=ff6b9d&icon_color=c44dff&text_color=ffffff&bg_color=0d1117" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0d1117&stroke=ff6b9d&ring=c44dff&fire=4d9fff&currStreakLabel=ff6b9d" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=6C63FF&ring=6C63FF&fire=FF6B9D&currStreakLabel=6C63FF" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&langs_count=8&title_color=ff6b9d&text_color=ffffff&bg_color=0d1117" width="60%"/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" width="55%"/>
 
 </div>
 
 ---
 
-## 🌱 رؤيتي | My Vision
+## 🌱 My Vision
 
 <div align="center">
 
@@ -318,8 +319,8 @@ An aspiring software developer passionate about building and designing applicati
 
 <div align="center">
 
-**💬 "التعلم المستمر هو المفتاح" — Continuous learning is the key**
+**💬 "Continuous learning is the key" — التعلم المستمر هو المفتاح**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4d9fff,50:c44dff,100:ff6b9d&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%"/>
 
 </div>
