@@ -1,6 +1,6 @@
 <div align="center">
+<img width="232" height="203" alt="IMG_0463" src="https://github.com/user-attachments/assets/7d4f4687-8972-48f7-8d6f-0e44f6471a8f" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b9d,50:c44dff,100:4d9fff&height=240&section=header&text=Maya%20Mohamed&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20Web%20%26%20App%20Builder&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://github.com/YOUR_USERNAME">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=%D9%85%D8%B7%D9%88%D8%B1%D8%A9+%D8%A8%D8%B1%D9%85%D8%AC%D9%8A%D8%A7%D8%AA+%D8%B7%D9%85%D9%88%D8%AD%D8%A9+%F0%9F%92%9C;Aspiring+Software+Developer+%F0%9F%9A%80;Frontend+%7C+Backend+%7C+Mobile+Apps" alt="Typing SVG" />
@@ -47,11 +47,11 @@ An aspiring software developer passionate about building and designing applicati
 
 ### 💻 لغات البرمجة | Programming Languages
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🎨 تطوير الواجهات الأمامية | Frontend
 
@@ -84,69 +84,137 @@ An aspiring software developer passionate about building and designing applicati
 
 ---
 
-## 📚 خارطة طريقي لتعلم البرمجة الكاملة | Full-Stack Learning Roadmap
+## 📚 Full-Stack Learning Roadmap
 
-> 🎯 **هدفي:** أن أصبح مطورة **Full-Stack** قادرة على بناء مواقع وتطبيقات متكاملة من الصفر حتى النشر.
+> 🎯 **Goal:** Become a **Full-Stack Developer** capable of building complete websites and applications — from idea to deployment.
+> <sub>هدفي: أن أصبح مطورة Full-Stack قادرة على بناء مواقع وتطبيقات متكاملة من الصفر حتى النشر.</sub>
 
-<div align="center">
+<br/>
 
-| المرحلة | المجال | التقنيات | الحالة |
-| :---: | :--- | :--- | :---: |
-| 1️⃣ | **أساسيات البرمجة** | C++, Logic, OOP | ✅ أتقنتها |
-| 2️⃣ | **الواجهات الأمامية** | HTML5, CSS3, JavaScript | 🟡 أتعلمها |
-| 3️⃣ | **أطر الواجهات** | React, TailwindCSS | ⏳ قادم |
-| 4️⃣ | **الواجهات الخلفية** | PHP, Node.js, Python | 🟡 أتعلمها |
-| 5️⃣ | **قواعد البيانات** | MySQL, MongoDB | ⏳ قادم |
-| 6️⃣ | **تطبيقات الجوال** | Flutter, React Native | ⏳ قادم |
-| 7️⃣ | **النشر والاستضافة** | Git, GitHub, Vercel, Netlify | 🟡 أتعلمها |
-| 8️⃣ | **الذكاء الاصطناعي** | Python, APIs | 🔮 طويل المدى |
+<br/>
 
-</div>
-
----
-
-## 💡 ما يجب أن تعرفه لتصبح مطورة Full-Stack كاملة
-
-<div align="center">
-
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top" style="background: linear-gradient(135deg, #ff6b9d15, #c44dff15); border-radius: 15px; padding: 20px;">
+<td width="25%" valign="top">
 
-### 🎯 المهارات الأساسية (Basics)
-- ✅ **HTML5** — بنية الصفحات
-- ✅ **CSS3** — التنسيق والتصميم
-- ✅ **JavaScript** — التفاعل والديناميكية
-- ✅ **Git & GitHub** — إدارة الإصدارات
-- ✅ **Responsive Design** — التصميم المتجاوب
+**1️⃣ Programming Fundamentals**
 
-### 🎨 الواجهات الأمامية (Frontend)
-- 🟡 **React** أو **Vue.js** — أطر العمل
-- 🟡 **TailwindCSS** أو **Bootstrap**
-- ⏳ **TypeScript** — نسخة JavaScript المطورة
-- ⏳ **Next.js** — إطار React
-- ⏳ **Redux / Zustand** — إدارة الحالة
+<img src="https://img.shields.io/badge/✅_Completed-000000?style=flat-square" alt="Completed">
+<br/>
+`C++` · `OOP` · `Logic`
+
+<sub>أساسيات البرمجة — أتقنتها</sub>
+<br/>
+<sub>Programming Fundamentals — Mastered</sub>
+<br/>
+<sub>Основы программирования — Освоено</sub>
 
 </td>
-<td width="50%" valign="top" style="background: linear-gradient(135deg, #4d9fff15, #00d9a315); border-radius: 15px; padding: 20px;">
+<td width="25%" valign="top">
 
-### ⚙️ الواجهات الخلفية (Backend)
-- 🟡 **Node.js + Express**
-- 🟡 **PHP + Laravel**
-- 🟡 **Python + Django / Flask**
-- ⏳ **REST APIs** و **GraphQL**
-- ⏳ **Authentication** (JWT, OAuth)
+**2️⃣ Frontend Basics**
 
-### 🗄️ قواعد البيانات (Databases)
-- 🟡 **MySQL** / **PostgreSQL** (SQL)
-- ⏳ **MongoDB** (NoSQL)
-- ⏳ **Redis** (Caching)
-- ⏳ **Prisma** / **Sequelize** (ORM)
+<img src="https://img.shields.io/badge/🟡_Learning-1A1A1A?style=flat-square" alt="Learning">
+<br/>
+`HTML5` · `CSS3` · `JavaScript`
 
-### 📱 تطبيقات الجوال (Mobile)
-- ⏳ **Flutter** (Dart)
-- ⏳ **React Native** (JS)
-- ⏳ **PWA** — تطبيقات ويب تقدمية
+<sub>الواجهات الأمامية — أتعلمها حالياً</sub>
+<br/>
+<sub>Frontend Basics — Currently Learning</sub>
+<br/>
+<sub>Основы фронтенда — Изучаю сейчас</sub>
+
+</td>
+<td width="25%" valign="top">
+
+**3️⃣ Frontend Frameworks**
+
+<img src="https://img.shields.io/badge/⏳_Upcoming-2B2B2B?style=flat-square" alt="Upcoming">
+<br/>
+`React` · `TailwindCSS`
+
+<sub>أطر الواجهات — قادم</sub>
+<br/>
+<sub>Frontend Frameworks — Upcoming</sub>
+<br/>
+<sub>Фронтенд фреймворки — В планах</sub>
+
+</td>
+<td width="25%" valign="top">
+
+**4️⃣ Backend Development**
+
+<img src="https://img.shields.io/badge/🟡_Learning-1A1A1A?style=flat-square" alt="Learning">
+<br/>
+`PHP` · `Node.js` · `Python`
+
+<sub>الواجهات الخلفية — أتعلمها حالياً</sub>
+<br/>
+<sub>Backend Development — Currently Learning</sub>
+<br/>
+<sub>Бэкенд разработка — Изучаю сейчас</sub>
+
+</td>
+</tr>
+<tr>
+<td width="25%" valign="top">
+
+**5️⃣ Databases**
+
+<img src="https://img.shields.io/badge/⏳_Upcoming-2B2B2B?style=flat-square" alt="Upcoming">
+<br/>
+`MySQL` · `MongoDB`
+
+<sub>قواعد البيانات — قادم</sub>
+<br/>
+<sub>Databases — Upcoming</sub>
+<br/>
+<sub>Базы данных — В планах</sub>
+
+</td>
+<td width="25%" valign="top">
+
+**6️⃣ Mobile Development**
+
+<img src="https://img.shields.io/badge/⏳_Upcoming-2B2B2B?style=flat-square" alt="Upcoming">
+<br/>
+`Flutter` · `React Native`
+
+<sub>تطبيقات الجوال — قادم</sub>
+<br/>
+<sub>Mobile Development — Upcoming</sub>
+<br/>
+<sub>Мобильная разработка — В планах</sub>
+
+</td>
+<td width="25%" valign="top">
+
+**7️⃣ Deployment & Hosting**
+
+<img src="https://img.shields.io/badge/🟡_Learning-1A1A1A?style=flat-square" alt="Learning">
+<br/>
+`Git` · `GitHub` · `Vercel` · `Netlify`
+
+<sub>النشر والاستضافة — أتعلمها حالياً</sub>
+<br/>
+<sub>Deployment & Hosting — Currently Learning</sub>
+<br/>
+<sub>Деплой и хостинг — Изучаю сейчас</sub>
+
+</td>
+<td width="25%" valign="top">
+
+**8️⃣ AI & APIs**
+
+<img src="https://img.shields.io/badge/🔮_Long--term-333333?style=flat-square" alt="Long-term">
+<br/>
+`Python` · `REST APIs`
+
+<sub>الذكاء الاصطناعي — هدف طويل المدى</sub>
+<br/>
+<sub>AI & APIs — Long-term Goal</sub>
+<br/>
+<sub>ИИ и API — Долгосрочная цель</sub>
 
 </td>
 </tr>
@@ -154,6 +222,74 @@ An aspiring software developer passionate about building and designing applicati
 
 </div>
 
+
+##💡 ما يجب أن تعرفه لتصبح مطورة Full-Stack كاملة
+
+---
+
+### 🎯 المهارات الأساسية (Basics)
+
+- ✅ **HTML5** — بنية الصفحات
+      <sub>Structure of web pages</sub>
+- ✅ **CSS3** — التنسيق والتصميم
+      <sub>Styling and design</sub>
+- ✅ **JavaScript** — التفاعل والديناميكية
+      <sub>Interactivity and dynamism</sub>
+- ✅ **Git & GitHub** — إدارة الإصدارات
+      <sub>Version control</sub>
+- ✅ **Responsive Design** — التصميم المتجاوب
+      <sub>Responsive design</sub>
+
+
+### 🎨 الواجهات الأمامية (Frontend)
+
+- 🟡 **React** أو **Vue.js** — أطر العمل
+      <sub>Frameworks</sub>
+- 🟡 **TailwindCSS** أو **Bootstrap**
+      <sub>CSS frameworks</sub>
+- ⏳ **TypeScript** — نسخة JavaScript المطورة
+      <sub>Enhanced version of JavaScript</sub>
+- ⏳ **Next.js** — إطار React
+      <sub>React framework</sub>
+- ⏳ **Redux / Zustand** — إدارة الحالة
+      <sub>State management</sub>
+
+
+### ⚙️ الواجهات الخلفية (Backend)
+
+- 🟡 **Node.js + Express**
+     <sub>JavaScript runtime with web framework</sub>
+- 🟡 **PHP + Laravel**
+     <sub>PHP with Laravel framework</sub>
+- 🟡 **Python + Django / Flask**
+     <sub>Python with Django or Flask</sub>
+- ⏳ **REST APIs** و **GraphQL**
+     <sub>REST APIs and GraphQL</sub>
+- ⏳ **Authentication** (JWT, OAuth)
+     <sub>Authentication (JWT, OAuth)</sub>
+
+
+
+### 🗄️ قواعد البيانات (Databases)
+
+- 🟡 **MySQL** / **PostgreSQL** (SQL)
+     <sub>Relational databases (SQL)</sub>
+- ⏳ **MongoDB** (NoSQL)
+     <sub>NoSQL database</sub>
+- ⏳ **Redis** (Caching)
+     <sub>Caching</sub>
+- ⏳ **Prisma** / **Sequelize** (ORM)
+     <sub>Object-Relational Mapping</sub>
+
+
+### 📱 تطبيقات الجوال (Mobile)
+
+- ⏳ **Flutter** (Dart)
+     <sub>Flutter with Dart</sub>
+- ⏳ **React Native** (JS)
+     <sub>React Native with JavaScript</sub>
+- ⏳ **PWA** — تطبيقات ويب تقدمية
+     <sub>Progressive Web Apps</sub>
 ---
 
 ## 📊 إحصائيات GitHub | GitHub Stats
